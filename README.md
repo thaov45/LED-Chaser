@@ -13,4 +13,10 @@
 | LED X10 |
 
 ---
+#### Schematic
+![alt text](https://github.com/thaov45/LED-Chaser/blob/main/Untitled%20Sketch_schem.png "Schematic")
 
+---
+#### Images
+![alt text](https://github.com/thaov45/LED-Chaser/blob/main/20221006_234340.jpg "Image 1")
+![alt text](https://github.com/thaov45/LED-Chaser/blob/main/20221006_234254.jpg "Image 2")
